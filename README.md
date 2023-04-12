@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dddyyyzzz12345/dddyyyzzz12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
